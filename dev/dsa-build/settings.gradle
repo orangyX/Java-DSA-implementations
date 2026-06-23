@@ -1,0 +1,8 @@
+rootProject.name = 'dsa'
+
+include 'linkedlist'
+include 'map'
+include 'stack'
+include 'queue'
+include 'scheduler'
+include 'lrucache'

@@ -1,0 +1,18 @@
+# Ignore gradle generated files
+.gradle/
+build/
+**/build/
+
+# IDE + editor files
+.vscode/
+.idea/
+*.iml
+
+# Compiled files
+bin/
+**/bin/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
