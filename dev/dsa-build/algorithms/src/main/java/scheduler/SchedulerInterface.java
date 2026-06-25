@@ -1,5 +1,5 @@
 package scheduler;
-public interface SchedulerAttributes {
+public interface SchedulerInterface {
     void run();
     boolean idleState();
 }

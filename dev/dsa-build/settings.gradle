@@ -1,8 +1,10 @@
 rootProject.name = 'dsa'
 
+include 'algorithms'
+include 'lrucache'
 include 'linkedlist'
 include 'map'
-include 'stack'
+include 'priorityqueue'
 include 'queue'
-include 'scheduler'
-include 'lrucache'
+include 'stack'
+include 'tree'

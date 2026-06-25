@@ -1,4 +1,4 @@
-package test;
+package linkedlist_test;
 
 import java.util.Random;
 

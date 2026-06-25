@@ -1,15 +1,14 @@
 package hashmap_test;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import java.util.Random;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 
 import hashmap.Hashmap;
-// import hashmap.KeyException;
-
-import java.util.Random;
-import java.lang.StringBuilder;
 
 public class HashmapTest {
     private class Key<K> {
